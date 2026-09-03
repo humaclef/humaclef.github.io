@@ -1,2 +1,2 @@
-# humaclef.github.io
-CLEF Humanitas Track
+# HumaCLEF.com
+CLEF 2027 Humanitas Track
