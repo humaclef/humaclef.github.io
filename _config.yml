@@ -1,0 +1,46 @@
+# ---------------------------------------------------------------------------
+# HUMANITAS @ CLEF - Jekyll configuration for GitHub Pages
+# Edit the values marked TO COMPLETE before publishing.
+# ---------------------------------------------------------------------------
+
+title: "HUMANITAS @ CLEF"
+tagline: "Benchmarking Computational Methods for Digital Humanities and Cultural Heritage"
+description: >-
+  HUMANITAS is a CLEF lab devoted to the evaluation and benchmarking of
+  computational methods for research, access, analysis, enrichment and
+  interpretation in Digital Humanities and Cultural Heritage.
+
+# TO COMPLETE: replace with the final GitHub Pages address.
+# If the repository is <org>.github.io, leave baseurl empty.
+# If the repository is <org>.github.io/humanitas, set baseurl: "/humanitas".
+url: "https://ORGANISATION.github.io"
+baseurl: ""
+
+# TO COMPLETE: contact address for the lab (a shared alias is preferable to a
+# personal one, so that it survives changes in the organising team).
+email: "humanitas-clef@EXAMPLE.ORG"
+
+theme: minima
+minima:
+  skin: auto
+  date_format: "%-d %B %Y"
+
+# Order of the links shown in the top-right navigation bar.
+header_pages:
+  - scope.md
+  - programme.md
+  - organisers.md
+  - participate.md
+  - resources.md
+  - contact.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - README.md
+  - TODO-missing-information.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
