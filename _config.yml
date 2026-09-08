@@ -7,17 +7,17 @@ title: "CLEF 2027 HUMANITAS Track"
 tagline: "Benchmarking Computational Methods for Digital Humanities and Cultural Heritage"
 description: >-
   HUMANITAS is a CLEF lab devoted to the evaluation and benchmarking of
-  computational methods for research, access, analysis, enrichment and
+  computational methods for research, access, analysis, enrichment, and
   interpretation in Digital Humanities and Cultural Heritage.
 
 # TO COMPLETE: replace with the final GitHub Pages address.
 # If the repository is <org>.github.io, leave baseurl empty.
 # If the repository is <org>.github.io/humanitas, set baseurl: "/humanitas".
-url: "https://ORGANISATION.github.io"
+url: "https://humaclef.com"
 baseurl: ""
 
 # TO COMPLETE: contact address for the lab (a shared alias is preferable to a
-# personal one, so that it survives changes in the organising team).
+# personal one, so that it survives changes in the organizing team).
 email: "humanitas-clef@EXAMPLE.ORG"
 
 theme: minima
