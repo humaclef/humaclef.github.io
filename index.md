@@ -4,6 +4,10 @@ title: "Benchmarking Computational Methods for Digital Humanities and Cultural H
 permalink: /
 ---
 
+<p align="center">
+  <img src="assets/HumaCLEF-logo-crop.png" width="120">
+</p>
+
 HUMANITAS is a lab at CLEF (Conference and Labs of the Evaluation Forum) devoted to the evaluation and benchmarking of computational methods that support research, access, analysis, enrichment and interpretation across Digital Humanities (DH) and Cultural Heritage (CH).
 
 **Where and when:** CLEF 2027, Bucharest, Romania, 14–17 September 2027 (half-day session, exact day and room to be announced).
