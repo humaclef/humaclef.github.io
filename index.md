@@ -10,7 +10,7 @@ permalink: /
 
 HUMANITAS is a lab at CLEF (Conference and Labs of the Evaluation Forum) devoted to the evaluation and benchmarking of computational methods that support research, access, analysis, enrichment and interpretation across Digital Humanities (DH) and Cultural Heritage (CH).  HUMANITAS is a backronym for _Historical Understanding and Multimodal Analysis of Noisy, Interoperable Textual and Audiovisual Sources_.
 
-**Where and when:** CLEF 2027, Bucharest, Romania, 14–17 September 2027 (half-day session, exact day and room to be announced).
+**Where and when:** CLEF 2027, Bucharest, Romania, 14–17 September 2027.
 
 [Scope and motivation]({{ '/scope/' | relative_url }}) · [Programme]({{ '/programme/' | relative_url }}) · [Organisers]({{ '/organisers/' | relative_url }}) · [Participate]({{ '/participate/' | relative_url }}) · [Resources]({{ '/resources/' | relative_url }}) · [Contact]({{ '/contact/' | relative_url }})
 
