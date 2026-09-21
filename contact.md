@@ -6,7 +6,7 @@ permalink: /contact/
 
 ## Write to us
 
-General enquiries about the lab: **humanitas-clef@EXAMPLE.ORG** (TO COMPLETE).
+General enquiries about the lab: **info@humaclef.com**.
 
 
 ## Follow the lab
