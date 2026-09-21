@@ -18,7 +18,7 @@ baseurl: ""
 
 # TO COMPLETE: contact address for the lab (a shared alias is preferable to a
 # personal one, so that it survives changes in the organizing team).
-email: "humanitas-clef@EXAMPLE.ORG"
+email: "info@humaclef.com"
 
 theme: minima
 minima:
